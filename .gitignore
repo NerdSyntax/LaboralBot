@@ -10,7 +10,7 @@ perfil.json
 *.log
 filtros.json
 groq_limits.json
-mi_cv_postulacion.pdf
+*.pdf
 tmp_form.txt
 git_log.txt
 git_log_utf8.txt
