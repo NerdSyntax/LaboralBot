@@ -8,10 +8,17 @@ Asistente de terminal para la automatización de postulaciones laborales mediant
 - **IA de Respuesta**: Genera respuestas personalizadas basadas en tu trayectoria real.
 - **Historial**: Registro de postulaciones y respuestas enviadas.
 
-## Instalación
-1. Instalar dependencias: `pip install -r requirements.txt`
-2. Instalar navegador: `playwright install chromium`
-3. Ejecutar: `python main.py`
+## Instalación Fácil (Recomendada)
+Para instalar y configurar el bot automáticamente, solo necesitas tener [Python](https://www.python.org/downloads/) instalado en tu sistema.
+
+**En Windows:**
+Doble clic en el archivo `setup.bat`
+
+**En macOS / Linux:**
+Abre tu terminal y ejecuta: `bash setup.sh`
+
+*(Esto creará un entorno virtual, instalará las dependencias de Python y descargará el navegador de Playwright automáticamente).*
+
 
 ## Requisitos
 - **Groq API Key**: Necesaria para el procesamiento de lenguaje natural.
